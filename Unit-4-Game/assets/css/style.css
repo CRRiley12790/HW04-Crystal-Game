@@ -1,0 +1,55 @@
+body {
+    background: gray;
+}
+
+h1 {
+    background: pink;
+    color: black;
+    width: 825px;
+    text-align: center;
+}
+
+.instructions {
+    background: navy;
+    color: aqua; 
+    width: 825px;
+}
+
+p {
+    background: navy;
+    width: 825px;
+    font-size: 18px;
+}
+
+.targetNumber {
+    background: black;
+    color: yellow;
+    height: 200px;
+    width: 200px;
+    float: left;
+    text-align: center;
+}
+
+.Score {
+    background: black;
+    color: yellow;
+    height: 200px;
+    width: 200px;
+    float: left;
+    margin-left: 30px;
+    text-align: center;
+    margin-right: 20px;
+}
+
+.gems {
+    clear: both;
+    margin-left: 20px;
+}
+
+.winsLosses {
+    float: left;
+    background: antiquewhite;
+    color: navy;
+    width: 375px;
+    height: 100px;
+}
